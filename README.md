@@ -32,7 +32,7 @@ This project aims to provide utilities and features for Mario Kart 8 modders, su
 - Clone the repo
 
 ```shell
-git clone --recursive https://github.com/EpicUsername12/ctgp-cafe.git
+git clone --recursive (https://github.com/Ecrazer/ctgp-caf-.git)
 ```
 
 - Put the original update file `/code/Turbo.rpx` (any region | **v81**, known as **v4.2**) in `./project/rpxs`
